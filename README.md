@@ -1,1 +1,2 @@
-# Web-Scraping 연습하는 공간입니다.
+# Web-Scraping
+웹 스크래핑을 연습한 자료입니다.
